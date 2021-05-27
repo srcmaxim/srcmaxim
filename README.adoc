@@ -5,11 +5,10 @@ My name is Maksym Koval.
 
 I'm a Software Developer based in Kharkiv, Ukraine.
 
-What I do?
-A few things:
+I do A few things:
 
-* I occasionally https://srcmaxim.pages.dev[📒 blog]
-* And, obviously, push some code to https://github.com/srcmaxim[🐱 Github]
+* I occasionally https://srcmaxim.pages.dev[📖 blog]
+* And, obviously, push some code to https://github.com/srcmaxim[💻 Github]
 
 ++++
 <p align="center">
