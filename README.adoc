@@ -7,7 +7,7 @@ I'm a Software Developer based in Kharkiv, Ukraine.
 
 I do A few things:
 
-* I occasionally https://srcmaxim.pages.dev[📖 blog]
+* I occasionally https://srcmaxim.com[📖 blog]
 * And, obviously, push some code to https://github.com/srcmaxim[💻 Github]
 
 ++++
