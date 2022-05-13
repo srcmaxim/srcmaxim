@@ -14,8 +14,8 @@ Here's a neat selection of projects that I enjoyed building:
 
 1. https://github.com/srcmaxim/url-shortener  
 Just a URL shortener that you can build, run and test with one line of code (you need docker-compose).  
-Build with Quarkus and Kotlin. Uses GraalVM native-image.
-Also this project is tuned for performance and you can test it with one line.  
+Build with Quarkus and Kotlin. Uses GraalVM native-image.  
+Also, this project is tuned for performance and you can test it with one line.  
 Did this as an assignment for one position in the NL.
 
 2. https://github.com/srcmaxim/gradle-example  
@@ -24,9 +24,10 @@ Multimodule Gradle project with (SonarQube, CheckStyle), Docker, Kubernetes, Hel
 Also every CI/CD step fires an event and I get all updates in the Telegram chanel.  
 
 3. https://github.com/srcmaxim/aws-blog/tree/master/src  
-It's a blogging platform for 1 user,  all data is stored in DynamoDB in a denormalized structure. Runs both locally with DynamoDB and in AWS. Also, I used Quarkus here.  
+It's a blogging platform for 1 user,  all data is stored in DynamoDB in a denormalized structure.  
+Runs both locally with DynamoDB and in AWS. Also, I used Quarkus here.  
 Created 2 AWS Code Pipelines for Lambda CI/CD and DynamoDB.  
-Also, Lambda uses Quarkus and builds with GraalVM native-image.
+AWS Lambda uses Quarkus with GraalVM native-image.
 
 <p align="center">
   <a href="https://github.com/srcmaxim?tab=repositories">
