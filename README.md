@@ -15,8 +15,7 @@ Here's a neat selection of projects that I enjoyed building:
 1. https://github.com/srcmaxim/url-shortener  
 Just a URL shortener that you can build, run and test with one line of code (you need docker-compose).  
 Build with Quarkus and Kotlin. Uses GraalVM native-image.  
-Also, this project is tuned for performance and you can test it with one line.  
-Did this as an assignment for one position in the NL.
+Also, this project is tuned for performance.
 
 2. https://github.com/srcmaxim/gradle-example  
 It's a kind of FizzBuzz enterprise edition that gets you a random cat breed.  
