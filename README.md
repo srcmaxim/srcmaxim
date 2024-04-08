@@ -1,10 +1,8 @@
 
-Hi! I’m Maksym Koval. I work as a Java Developer in The Netherlands.
- 
-I'm inspired by todays technologies and I want to share my thoughts with you.  
-Any giwen weekend you might find me running and biking around city.  
+Hi! I’m Maksym Koval.  
+I work as a Java Developer in The Netherlands.  
 
-All code examples and other projects you can find here in my [GitHub](https://github.com/srcmaxim/).
+All code examples and projects are here in my [GitHub](https://github.com/srcmaxim/).
 
 <p align="center">
   <a href="https://github.com/srcmaxim?tab=repositories">
