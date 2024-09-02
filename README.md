@@ -5,7 +5,7 @@ I work as a Java Developer in The Netherlands.
 Occasionaly write in https://srcmaxim.com/
 
 Full project examples:
-- [Java project starter with CI/CD, Kubernetes, ArgoCD, Docker, ChatOps, Sonarqube](https://github.com/srcmaxim/gradle-example)
+- [Java project starter with CI/CD, Kubernetes, ArgoCD, Helm, ArtifactHub, Docker, ChatOps, Sonarqube](https://github.com/srcmaxim/gradle-example)
 - [Blog hosted on AWS Lambda and DynamoDB with AWS CI/CD pipeline](https://github.com/srcmaxim/aws-blog)
 - [Blog hosted on AWS V2](https://github.com/srcmaxim/microservice-blog/tree/master/blog)
 - [Quarkus cli app with Async I/O](https://github.com/srcmaxim/cli)
